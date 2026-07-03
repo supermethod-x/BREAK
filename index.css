@@ -1,0 +1,26 @@
+body {
+	display: flex;
+
+	width: 100vw;
+	height: 100vh;
+	margin: 0;
+
+	background-color: #0202d0;
+}
+
+h1 {
+	margin-right: 10%;
+
+	font-family: helvetica;
+	font-size: 8rem;
+
+	color: white;
+}
+
+.bar {
+	width: 20px;
+	height: 100vh;
+	margin-right: 2rem;
+
+	background-color: black;
+}
